@@ -5,7 +5,7 @@
 - -🛠️ I enjoy working on database projects and exploring new technologies like AI and machine learning.
 - 📚 When I'm not coding, you can find me studying or doing my school projects in the kitchen.
 - - 📫 How to reach me 230711723@mycput.ac.za
-- 😄 Pronouns: Her
+- 😄 Pronouns: Him
 - 🌍 I'm passionate about using technology to solve real-world problems and make a positive impact in my community.
   
 Feel free to reach out if you want to chat about tech, collaborate on a project, or just share some fun coding stories!
